@@ -4,7 +4,7 @@ public class Main {
 
     private static final String url = "jdbc:mysql://localhost:3306/mydb";
     private static final String username = "root";
-    private static final String password = "Gaurav#123@";
+    private static final String password = "myPassword";
 
     public static void main(String[] args) {
         try {
